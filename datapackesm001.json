@@ -3,97 +3,97 @@
 		"ID": 1,
 		"name": "DOTA 2",
 		"trigram": "DOT",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos1.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos1.png"
 	},
 	{
 		"ID": 2,
 		"name": "VALORANT",
 		"trigram": "VAL",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos2.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos2.png"
 
 	},
 	{
 		"ID":3,
 		"name": "COUNTER STRIKE",
 		"trigram": "CS",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos3.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos3.png"
 
 	},
 	{
 		"ID": 4,
 		"name": "ROCKET LEAGUE",
 		"trigram": "RL",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos4.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos4.png"
 
 	},
 	{
 		"ID": 5,
 		"name": "LEAGUE OF LEGENDS",
 		"trigram": "LOL",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos5.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos5.png"
 
 	},
 	{
 		"ID": 6,
 		"name": "RAINBOW 6",
 		"trigram": "R6",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos6.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos6.png"
 
 	},
 	{
 		"ID": 7,
 		"name": "SMASH BROS",
 		"trigram": "SM",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos7.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos7.png"
 
 	},
 	{
 		"ID": 8,
 		"name": "EA FC",
 		"trigram": "FC",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos8.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos8.png"
 
 	},
 	{
 		"ID": 9,
 		"name": "TRACKMANIA",
 		"trigram": "TM",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos9.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos9.png"
 
 	},
 	{
 		"ID": 10,
 		"name": "STARCRAFT",
 		"trigram": "SC",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos10.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos10.png"
 
 	},
 	{
 		"ID": 11,
 		"name": "AGE OF EMPIRES",
 		"trigram": "AOE",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos11.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos11.png"
 
 	},
 	{
 		"ID": 12,
 		"name": "CALL OF DUTY",
 		"trigram": "COD",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos12.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos12.png"
 
 	},
 	{
 		"ID": 13,
 		"name": "OVERWATCH",
 		"trigram": "OW",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos13.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos13.png"
 
 	},
 	{
 		"ID": 14,
 		"name": "MOBILE LEGEND",
 		"trigram": "ML",
-		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/vrailogos14.png"
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos14.png"
 
 	}
 ]
