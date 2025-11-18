@@ -95,5 +95,33 @@
 		"trigram": "ML",
 		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos14.png"
 
+	},
+	{
+		"ID": 15,
+		"name": "FORTNITE",
+		"trigram": "FNT",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos15.png"
+
+	},
+	{
+		"ID": 16,
+		"name": "BRAWL STARS",
+		"trigram": "BL",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos16.png"
+
+	},
+	{
+		"ID": 17,
+		"name": "APEX LEGENDS",
+		"trigram": "APX",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos17.png"
+
+	},
+	{
+		"ID": 18,
+		"name": "STREET FIGHTER",
+		"trigram": "SF",
+		"imageurl": "https://raw.githubusercontent.com/julienpercot/json/refs/heads/main/vrailogos18.png"
+
 	}
 ]
